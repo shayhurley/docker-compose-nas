@@ -181,7 +181,7 @@ In summary, the final structure of the shared volume will be as follows:
 data
 ├── torrents = shared folder qBittorrent downloads
 │  ├── movies = movies downloads tagged by Radarr
-│  └── tv = movies downloads tagged by Sonarr
+│  └── tv = tv downloads tagged by Sonarr
 └── media = shared folder for Sonarr and Radarr files
    ├── movies = Radarr
    └── tv = Sonarr
